@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "논문 요약"
+---
+
 # real-time purchase behavior recognition system based on deep-learning-based object detection and tracking for an unmanned product cabinet
 
 ---
